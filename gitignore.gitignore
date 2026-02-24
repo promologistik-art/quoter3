@@ -1,0 +1,6 @@
+.env
+stats.txt
+last_index.txt
+__pycache__/
+*.pyc
+.DS_Store
