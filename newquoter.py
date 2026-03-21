@@ -32,7 +32,7 @@ bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 msk_tz = pytz.timezone('Europe/Moscow')
-POST_HOURS = [9, 12, 15, 17, 20]
+POST_HOURS = [7, 10, 14, 17, 20]
 
 QUOTES_FILE = "quotes.txt"
 STATE_FILE = "last_index.txt"
